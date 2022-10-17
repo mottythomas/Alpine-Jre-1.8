@@ -1,3 +1,5 @@
+## Install glibc as per below
+##https://wiki.alpinelinux.org/wiki/Installing_Oracle_Java
 FROM alpine
 RUN apk add tzdata
 ENV TZ=Asia/Dubai
